@@ -1,0 +1,3723 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.424726486206,
+                    28.11985206604
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 107<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 16<br>Latitude: 28.119852066040<br>Longitude: -15.424726486206<br>RSSI max: -92 dBm<br>RSSI min: -142 dBm<br>SNR max: 16.73 dB<br>SNR min: 8.22 dB",
+                "power": "14",
+                "rssiMax": -92,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 16.73,
+                "snrMin": 8.2200000000000006,
+                "stations": 16,
+                "txID": "107"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.440066337585,
+                    28.123359680176002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 108<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 22<br>Latitude: 28.123359680176<br>Longitude: -15.440066337585<br>RSSI max: -98 dBm<br>RSSI min: -136 dBm<br>SNR max: 18.31 dB<br>SNR min: 9.12 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 18.309999999999999,
+                "snrMin": 9.1199999999999992,
+                "stations": 22,
+                "txID": "108"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.456278800964,
+                    28.095064163208001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 109<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.095064163208<br>Longitude: -15.456278800964<br>RSSI max: -98 dBm<br>RSSI min: -140 dBm<br>SNR max: 19.56 dB<br>SNR min: 10.34 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 19.559999999999999,
+                "snrMin": 10.34,
+                "stations": 12,
+                "txID": "109"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.491630554199,
+                    28.117450714111001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 110<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.117450714111<br>Longitude: -15.491630554199<br>RSSI max: -106 dBm<br>RSSI min: -141 dBm<br>SNR max: 18.93 dB<br>SNR min: 7.43 dB",
+                "power": "14",
+                "rssiMax": -106,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 18.93,
+                "snrMin": 7.4299999999999997,
+                "stations": 18,
+                "txID": "110"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.523067474365,
+                    28.117893218993999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 111<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.117893218994<br>Longitude: -15.523067474365<br>RSSI max: -99 dBm<br>RSSI min: -140 dBm<br>SNR max: 30.5 dB<br>SNR min: 8.15 dB",
+                "power": "14",
+                "rssiMax": -99,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 30.5,
+                "snrMin": 8.1500000000000004,
+                "stations": 8,
+                "txID": "111"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.5354347229,
+                    28.122076034546001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 112<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 28.122076034546<br>Longitude: -15.535434722900<br>RSSI max: -128 dBm<br>RSSI min: -143 dBm<br>SNR max: 13.31 dB<br>SNR min: 7.44 dB",
+                "power": "14",
+                "rssiMax": -128,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 13.31,
+                "snrMin": 7.4400000000000004,
+                "stations": 7,
+                "txID": "112"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.571208000183001,
+                    28.110244750976999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 113<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 28.110244750977<br>Longitude: -15.571208000183<br>RSSI max: -128 dBm<br>RSSI min: -139 dBm<br>SNR max: 12.89 dB<br>SNR min: 11.81 dB",
+                "power": "14",
+                "rssiMax": -128,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 12.890000000000001,
+                "snrMin": 11.81,
+                "stations": 2,
+                "txID": "113"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.583684921265,
+                    28.109624862671001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 114<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.109624862671<br>Longitude: -15.583684921265<br>RSSI max: -104 dBm<br>RSSI min: -141 dBm<br>SNR max: 18.73 dB<br>SNR min: 6.87 dB",
+                "power": "14",
+                "rssiMax": -104,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 18.73,
+                "snrMin": 6.8700000000000001,
+                "stations": 18,
+                "txID": "114"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.588759422301999,
+                    28.083595275878999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 115<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 28.083595275879<br>Longitude: -15.588759422302<br>RSSI max: -132 dBm<br>RSSI min: -132 dBm<br>SNR max: 12.16 dB<br>SNR min: 12.16 dB",
+                "power": "14",
+                "rssiMax": -132,
+                "rssiMin": -132,
+                "service": "OK",
+                "snrMax": 12.16,
+                "snrMin": 12.16,
+                "stations": 1,
+                "txID": "115"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.608254432678001,
+                    28.057298660278001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 116<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 28.057298660278<br>Longitude: -15.608254432678<br>RSSI max: -133 dBm<br>RSSI min: -135 dBm<br>SNR max: 11 dB<br>SNR min: 9.88 dB",
+                "power": "14",
+                "rssiMax": -133,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 11,
+                "snrMin": 9.8800000000000008,
+                "stations": 2,
+                "txID": "116"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.621891975403001,
+                    28.067558288573998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 117<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 28.067558288574<br>Longitude: -15.621891975403<br>RSSI max: -133 dBm<br>RSSI min: -136 dBm<br>SNR max: 9.3 dB<br>SNR min: 6.03 dB",
+                "power": "14",
+                "rssiMax": -133,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 9.3000000000000007,
+                "snrMin": 6.0300000000000002,
+                "stations": 3,
+                "txID": "117"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.6222448349,
+                    28.08438873291
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 118<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.084388732910<br>Longitude: -15.622244834900<br>RSSI max: -122 dBm<br>RSSI min: -140 dBm<br>SNR max: 18.34 dB<br>SNR min: 8.08 dB",
+                "power": "14",
+                "rssiMax": -122,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 18.34,
+                "snrMin": 8.0800000000000001,
+                "stations": 13,
+                "txID": "118"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.622757911681999,
+                    28.107458114623999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 119<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 17<br>Latitude: 28.107458114624<br>Longitude: -15.622757911682<br>RSSI max: -112 dBm<br>RSSI min: -139 dBm<br>SNR max: 14.95 dB<br>SNR min: 8.33 dB",
+                "power": "14",
+                "rssiMax": -112,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 14.949999999999999,
+                "snrMin": 8.3300000000000001,
+                "stations": 17,
+                "txID": "119"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.616840362549,
+                    28.131902694701999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 120<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 14<br>Latitude: 28.131902694702<br>Longitude: -15.616840362549<br>RSSI max: -89 dBm<br>RSSI min: -139 dBm<br>SNR max: 35.54 dB<br>SNR min: 8.17 dB",
+                "power": "14",
+                "rssiMax": -89,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 35.539999999999999,
+                "snrMin": 8.1699999999999999,
+                "stations": 14,
+                "txID": "120"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.628010749816999,
+                    28.142660140991001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 121<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.142660140991<br>Longitude: -15.628010749817<br>RSSI max: -97 dBm<br>RSSI min: -142 dBm<br>SNR max: 14.84 dB<br>SNR min: 6.62 dB",
+                "power": "14",
+                "rssiMax": -97,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 14.84,
+                "snrMin": 6.6200000000000001,
+                "stations": 10,
+                "txID": "121"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.637210845946999,
+                    28.142877578735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 122<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 14<br>Latitude: 28.142877578735<br>Longitude: -15.637210845947<br>RSSI max: -75 dBm<br>RSSI min: -144 dBm<br>SNR max: 19.87 dB<br>SNR min: 7.19 dB",
+                "power": "14",
+                "rssiMax": -75,
+                "rssiMin": -144,
+                "service": "OK",
+                "snrMax": 19.870000000000001,
+                "snrMin": 7.1900000000000004,
+                "stations": 14,
+                "txID": "122"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.672033309937,
+                    28.116697311401001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 123<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.116697311401<br>Longitude: -15.672033309937<br>RSSI max: -100 dBm<br>RSSI min: -138 dBm<br>SNR max: 17.99 dB<br>SNR min: 6.73 dB",
+                "power": "14",
+                "rssiMax": -100,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 17.989999999999998,
+                "snrMin": 6.7300000000000004,
+                "stations": 11,
+                "txID": "123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.649689674377001,
+                    28.116079330443998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 124<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.116079330444<br>Longitude: -15.649689674377<br>RSSI max: -86 dBm<br>RSSI min: -138 dBm<br>SNR max: 16.84 dB<br>SNR min: 7.83 dB",
+                "power": "14",
+                "rssiMax": -86,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 16.84,
+                "snrMin": 7.8300000000000001,
+                "stations": 11,
+                "txID": "124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.641592979431,
+                    28.094858169556002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 125<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 28.094858169556<br>Longitude: -15.641592979431<br>RSSI max: -108 dBm<br>RSSI min: -141 dBm<br>SNR max: 14.79 dB<br>SNR min: 6.86 dB",
+                "power": "14",
+                "rssiMax": -108,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 14.789999999999999,
+                "snrMin": 6.8600000000000003,
+                "stations": 7,
+                "txID": "125"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.643217086791999,
+                    28.067295074463001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 126<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.067295074463<br>Longitude: -15.643217086792<br>RSSI max: -110 dBm<br>RSSI min: -141 dBm<br>SNR max: 20.05 dB<br>SNR min: 7.92 dB",
+                "power": "14",
+                "rssiMax": -110,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 20.050000000000001,
+                "snrMin": 7.9199999999999999,
+                "stations": 15,
+                "txID": "126"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.661247253418001,
+                    28.053388595581001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 127<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 28.053388595581<br>Longitude: -15.661247253418<br>RSSI max: -136 dBm<br>RSSI min: -137 dBm<br>SNR max: 10.67 dB<br>SNR min: 8.48 dB",
+                "power": "14",
+                "rssiMax": -136,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 10.67,
+                "snrMin": 8.4800000000000004,
+                "stations": 2,
+                "txID": "127"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.668001174926999,
+                    28.049324035645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 128<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 28.049324035645<br>Longitude: -15.668001174927<br>RSSI max: -127 dBm<br>RSSI min: -140 dBm<br>SNR max: 14.48 dB<br>SNR min: 9.77 dB",
+                "power": "14",
+                "rssiMax": -127,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 14.48,
+                "snrMin": 9.7699999999999996,
+                "stations": 3,
+                "txID": "128"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.674334526061999,
+                    28.047304153441999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 129<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 28.047304153442<br>Longitude: -15.674334526062<br>RSSI max: -141 dBm<br>RSSI min: -141 dBm<br>SNR max: 6.8 dB<br>SNR min: 6.8 dB",
+                "power": "14",
+                "rssiMax": -141,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 6.7999999999999998,
+                "snrMin": 6.7999999999999998,
+                "stations": 1,
+                "txID": "129"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.67315864563,
+                    28.043758392333999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 130<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 28.043758392334<br>Longitude: -15.673158645630<br>RSSI max: -136 dBm<br>RSSI min: -136 dBm<br>SNR max: 10.1 dB<br>SNR min: 10.1 dB",
+                "power": "14",
+                "rssiMax": -136,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 10.1,
+                "snrMin": 10.1,
+                "stations": 1,
+                "txID": "130"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.670575141906999,
+                    28.025699615478999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 131<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.025699615479<br>Longitude: -15.670575141907<br>RSSI max: -133 dBm<br>RSSI min: -142 dBm<br>SNR max: 13 dB<br>SNR min: 8.68 dB",
+                "power": "14",
+                "rssiMax": -133,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 13,
+                "snrMin": 8.6799999999999997,
+                "stations": 6,
+                "txID": "131"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.680604934691999,
+                    28.011667251586999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 132<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.011667251587<br>Longitude: -15.680604934692<br>RSSI max: -121 dBm<br>RSSI min: -139 dBm<br>SNR max: 15.61 dB<br>SNR min: 6.45 dB",
+                "power": "14",
+                "rssiMax": -121,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 15.609999999999999,
+                "snrMin": 6.4500000000000002,
+                "stations": 11,
+                "txID": "132"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.691776275635,
+                    28.001573562621999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 133<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 28.001573562622<br>Longitude: -15.691776275635",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "133"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.702011108398001,
+                    27.991031646728999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 134<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 27.991031646729<br>Longitude: -15.702011108398",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "134"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.736004829406999,
+                    27.984310150146001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 135<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 27.984310150146<br>Longitude: -15.736004829407<br>RSSI max: -130 dBm<br>RSSI min: -140 dBm<br>SNR max: 17.39 dB<br>SNR min: 7.36 dB",
+                "power": "14",
+                "rssiMax": -130,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 17.390000000000001,
+                "snrMin": 7.3600000000000003,
+                "stations": 11,
+                "txID": "135"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.706840515136999,
+                    27.991924285888999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 136<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 27.991924285889<br>Longitude: -15.706840515137",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "136"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.681307792664001,
+                    27.978736877441001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 137<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.978736877441<br>Longitude: -15.681307792664<br>RSSI max: -129.5 dBm<br>RSSI min: -137 dBm<br>SNR max: 13.88 dB<br>SNR min: 10.38 dB",
+                "power": "14",
+                "rssiMax": -129.5,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 13.880000000000001,
+                "snrMin": 10.380000000000001,
+                "stations": 4,
+                "txID": "137"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.661581039429,
+                    27.969299316406001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 138<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 9<br>Latitude: 27.969299316406<br>Longitude: -15.661581039429<br>RSSI max: -113 dBm<br>RSSI min: -139 dBm<br>SNR max: 15.95 dB<br>SNR min: 6 dB",
+                "power": "14",
+                "rssiMax": -113,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 15.949999999999999,
+                "snrMin": 6,
+                "stations": 9,
+                "txID": "138"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.620579719543001,
+                    27.958240509033001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 139<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.958240509033<br>Longitude: -15.620579719543<br>RSSI max: -129 dBm<br>RSSI min: -139 dBm<br>SNR max: 15.02 dB<br>SNR min: 9.25 dB",
+                "power": "14",
+                "rssiMax": -129,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 15.02,
+                "snrMin": 9.25,
+                "stations": 4,
+                "txID": "139"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.60883140564,
+                    27.958427429198998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 140<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.958427429199<br>Longitude: -15.608831405640<br>RSSI max: -140 dBm<br>RSSI min: -141 dBm<br>SNR max: 9.91 dB<br>SNR min: 8.35 dB",
+                "power": "14",
+                "rssiMax": -140,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 9.9100000000000001,
+                "snrMin": 8.3499999999999996,
+                "stations": 2,
+                "txID": "140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.618280410766999,
+                    27.975103378296001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 141<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 16<br>Latitude: 27.975103378296<br>Longitude: -15.618280410767<br>RSSI max: -121.5 dBm<br>RSSI min: -143 dBm<br>SNR max: 19.88 dB<br>SNR min: 7.49 dB",
+                "power": "14",
+                "rssiMax": -121.5,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 19.879999999999999,
+                "snrMin": 7.4900000000000002,
+                "stations": 16,
+                "txID": "141"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.622772216796999,
+                    27.987007141113001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 142<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 5<br>Latitude: 27.987007141113<br>Longitude: -15.622772216797<br>RSSI max: -126 dBm<br>RSSI min: -140 dBm<br>SNR max: 14.52 dB<br>SNR min: 7.81 dB",
+                "power": "14",
+                "rssiMax": -126,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 14.52,
+                "snrMin": 7.8099999999999996,
+                "stations": 5,
+                "txID": "142"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.615299224854001,
+                    27.995481491088999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 143<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.995481491089<br>Longitude: -15.615299224854<br>RSSI max: -127 dBm<br>RSSI min: -141 dBm<br>SNR max: 14.43 dB<br>SNR min: 7.47 dB",
+                "power": "14",
+                "rssiMax": -127,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 14.43,
+                "snrMin": 7.4699999999999998,
+                "stations": 4,
+                "txID": "143"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.618554115295,
+                    28.011098861693998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 144<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 5<br>Latitude: 28.011098861694<br>Longitude: -15.618554115295<br>RSSI max: -128 dBm<br>RSSI min: -142 dBm<br>SNR max: 13.39 dB<br>SNR min: 6.31 dB",
+                "power": "14",
+                "rssiMax": -128,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 13.390000000000001,
+                "snrMin": 6.3099999999999996,
+                "stations": 5,
+                "txID": "144"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.646697044372999,
+                    28.019805908203001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 145<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 28.019805908203<br>Longitude: -15.646697044373<br>RSSI max: -121 dBm<br>RSSI min: -139 dBm<br>SNR max: 15.93 dB<br>SNR min: 8.78 dB",
+                "power": "14",
+                "rssiMax": -121,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 15.93,
+                "snrMin": 8.7799999999999994,
+                "stations": 2,
+                "txID": "145"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.623852729796999,
+                    28.023597717285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 146<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.023597717285<br>Longitude: -15.623852729797<br>RSSI max: -118 dBm<br>RSSI min: -136 dBm<br>SNR max: 29.7 dB<br>SNR min: 9.29 dB",
+                "power": "14",
+                "rssiMax": -118,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 29.699999999999999,
+                "snrMin": 9.2899999999999991,
+                "stations": 13,
+                "txID": "146"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.60346698761,
+                    28.032724380493001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 147<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.032724380493<br>Longitude: -15.603466987610<br>RSSI max: -99 dBm<br>RSSI min: -138 dBm<br>SNR max: 41.56 dB<br>SNR min: 6.61 dB",
+                "power": "14",
+                "rssiMax": -99,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 41.560000000000002,
+                "snrMin": 6.6100000000000003,
+                "stations": 18,
+                "txID": "147"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.578150749206999,
+                    28.038017272948998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 148<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 16<br>Latitude: 28.038017272949<br>Longitude: -15.578150749207<br>RSSI max: -91 dBm<br>RSSI min: -138 dBm<br>SNR max: 18.37 dB<br>SNR min: 7.42 dB",
+                "power": "14",
+                "rssiMax": -91,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 18.370000000000001,
+                "snrMin": 7.4199999999999999,
+                "stations": 16,
+                "txID": "148"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.574374198914001,
+                    28.050012588501001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 149<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.050012588501<br>Longitude: -15.574374198914<br>RSSI max: -117 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.79 dB<br>SNR min: 6.92 dB",
+                "power": "14",
+                "rssiMax": -117,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.789999999999999,
+                "snrMin": 6.9199999999999999,
+                "stations": 13,
+                "txID": "149"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.560642242431999,
+                    28.061489105225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 150<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 16<br>Latitude: 28.061489105225<br>Longitude: -15.560642242432<br>RSSI max: -80 dBm<br>RSSI min: -138 dBm<br>SNR max: 70.62 dB<br>SNR min: 7.36 dB",
+                "power": "14",
+                "rssiMax": -80,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 70.620000000000005,
+                "snrMin": 7.3600000000000003,
+                "stations": 16,
+                "txID": "150"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.546414375305,
+                    28.059705734253001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 151<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 9<br>Latitude: 28.059705734253<br>Longitude: -15.546414375305<br>RSSI max: -81 dBm<br>RSSI min: -140 dBm<br>SNR max: 19.26 dB<br>SNR min: 6.32 dB",
+                "power": "14",
+                "rssiMax": -81,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 19.260000000000002,
+                "snrMin": 6.3200000000000003,
+                "stations": 9,
+                "txID": "151"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.517858505249,
+                    28.07640838623
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 152<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.076408386230<br>Longitude: -15.517858505249<br>RSSI max: -123 dBm<br>RSSI min: -137 dBm<br>SNR max: 18.64 dB<br>SNR min: 7.37 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 18.640000000000001,
+                "snrMin": 7.3700000000000001,
+                "stations": 6,
+                "txID": "152"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.495169639587001,
+                    28.094047546386999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 153<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.094047546387<br>Longitude: -15.495169639587<br>RSSI max: -112 dBm<br>RSSI min: -141 dBm<br>SNR max: 17.56 dB<br>SNR min: 6.52 dB",
+                "power": "14",
+                "rssiMax": -112,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 17.559999999999999,
+                "snrMin": 6.5199999999999996,
+                "stations": 11,
+                "txID": "153"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.478428840636999,
+                    28.07661819458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 154<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.076618194580<br>Longitude: -15.478428840637<br>RSSI max: -96 dBm<br>RSSI min: -135 dBm<br>SNR max: 19.26 dB<br>SNR min: 11.58 dB",
+                "power": "14",
+                "rssiMax": -96,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 19.260000000000002,
+                "snrMin": 11.58,
+                "stations": 6,
+                "txID": "154"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425737380980999,
+                    28.118032455443998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 32<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 9<br>Latitude: 28.118032455444<br>Longitude: -15.425737380981<br>RSSI max: -82 dBm<br>RSSI min: -137 dBm<br>SNR max: 18.58 dB<br>SNR min: 9 dB",
+                "power": "14",
+                "rssiMax": -82,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 18.579999999999998,
+                "snrMin": 9,
+                "stations": 9,
+                "txID": "32"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.424925804138001,
+                    28.126676559448001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 33<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 19<br>Latitude: 28.126676559448<br>Longitude: -15.424925804138<br>RSSI max: -85 dBm<br>RSSI min: -137 dBm<br>SNR max: 16.26 dB<br>SNR min: 8.1 dB",
+                "power": "14",
+                "rssiMax": -85,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 16.260000000000002,
+                "snrMin": 8.0999999999999996,
+                "stations": 19,
+                "txID": "33"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.429039955139,
+                    28.128374099731001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 34<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.128374099731<br>Longitude: -15.429039955139<br>RSSI max: -81 dBm<br>RSSI min: -141 dBm<br>SNR max: 16.58 dB<br>SNR min: 7.31 dB",
+                "power": "14",
+                "rssiMax": -81,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 16.579999999999998,
+                "snrMin": 7.3099999999999996,
+                "stations": 18,
+                "txID": "34"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.429547309875,
+                    28.14072227478
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 35<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.140722274780<br>Longitude: -15.429547309875<br>RSSI max: -94 dBm<br>RSSI min: -138 dBm<br>SNR max: 19.64 dB<br>SNR min: 9.52 dB",
+                "power": "14",
+                "rssiMax": -94,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 19.640000000000001,
+                "snrMin": 9.5199999999999996,
+                "stations": 18,
+                "txID": "35"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.421426773071,
+                    28.150003433228001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 36<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.150003433228<br>Longitude: -15.421426773071<br>RSSI max: -90 dBm<br>RSSI min: -134 dBm<br>SNR max: 18.84 dB<br>SNR min: 7.59 dB",
+                "power": "14",
+                "rssiMax": -90,
+                "rssiMin": -134,
+                "service": "OK",
+                "snrMax": 18.84,
+                "snrMin": 7.5899999999999999,
+                "stations": 15,
+                "txID": "36"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.430707931519001,
+                    28.145303726196001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 37<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 17<br>Latitude: 28.145303726196<br>Longitude: -15.430707931519<br>RSSI max: -107 dBm<br>RSSI min: -133 dBm<br>SNR max: 17.47 dB<br>SNR min: 10.81 dB",
+                "power": "14",
+                "rssiMax": -107,
+                "rssiMin": -133,
+                "service": "OK",
+                "snrMax": 17.469999999999999,
+                "snrMin": 10.81,
+                "stations": 17,
+                "txID": "37"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.431283950806,
+                    28.14345741272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 38<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.143457412720<br>Longitude: -15.431283950806<br>RSSI max: -107 dBm<br>RSSI min: -139 dBm<br>SNR max: 18.48 dB<br>SNR min: 7.33 dB",
+                "power": "14",
+                "rssiMax": -107,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 18.48,
+                "snrMin": 7.3300000000000001,
+                "stations": 15,
+                "txID": "38"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.43745136261,
+                    28.136678695678999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 39<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.136678695679<br>Longitude: -15.437451362610<br>RSSI max: -98 dBm<br>RSSI min: -139 dBm<br>SNR max: 18.72 dB<br>SNR min: 7.91 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 18.719999999999999,
+                "snrMin": 7.9100000000000001,
+                "stations": 11,
+                "txID": "39"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.44903087616,
+                    28.129531860351999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 40<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.129531860352<br>Longitude: -15.449030876160<br>RSSI max: -108 dBm<br>RSSI min: -140 dBm<br>SNR max: 15.77 dB<br>SNR min: 6.76 dB",
+                "power": "14",
+                "rssiMax": -108,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 15.77,
+                "snrMin": 6.7599999999999998,
+                "stations": 18,
+                "txID": "40"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.44179725647,
+                    28.129978179931999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 41<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.129978179932<br>Longitude: -15.441797256470<br>RSSI max: -117 dBm<br>RSSI min: -140 dBm<br>SNR max: 15.27 dB<br>SNR min: 6.94 dB",
+                "power": "14",
+                "rssiMax": -117,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 15.27,
+                "snrMin": 6.9400000000000004,
+                "stations": 11,
+                "txID": "41"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.434819221496999,
+                    28.13454246521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 42<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.134542465210<br>Longitude: -15.434819221497<br>RSSI max: -95 dBm<br>RSSI min: -137 dBm<br>SNR max: 15.83 dB<br>SNR min: 9.98 dB",
+                "power": "14",
+                "rssiMax": -95,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 15.83,
+                "snrMin": 9.9800000000000004,
+                "stations": 12,
+                "txID": "42"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.429188728332999,
+                    28.134792327881001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 43<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.134792327881<br>Longitude: -15.429188728333<br>RSSI max: -86 dBm<br>RSSI min: -137 dBm<br>SNR max: 19.4 dB<br>SNR min: 6.99 dB",
+                "power": "14",
+                "rssiMax": -86,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 19.399999999999999,
+                "snrMin": 6.9900000000000002,
+                "stations": 15,
+                "txID": "43"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.429601669312,
+                    28.132905960083001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 44<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 16<br>Latitude: 28.132905960083<br>Longitude: -15.429601669312<br>RSSI max: -82 dBm<br>RSSI min: -134 dBm<br>SNR max: 18.63 dB<br>SNR min: 11.78 dB",
+                "power": "14",
+                "rssiMax": -82,
+                "rssiMin": -134,
+                "service": "OK",
+                "snrMax": 18.629999999999999,
+                "snrMin": 11.779999999999999,
+                "stations": 16,
+                "txID": "44"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.423451423645,
+                    28.120843887328999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 45<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 20<br>Latitude: 28.120843887329<br>Longitude: -15.423451423645<br>RSSI max: -93 dBm<br>RSSI min: -138 dBm<br>SNR max: 15.76 dB<br>SNR min: 7.06 dB",
+                "power": "14",
+                "rssiMax": -93,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 15.76,
+                "snrMin": 7.0599999999999996,
+                "stations": 20,
+                "txID": "45"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.416412353516,
+                    28.109781265258999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 46<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.109781265259<br>Longitude: -15.416412353516<br>RSSI max: -103 dBm<br>RSSI min: -137 dBm<br>SNR max: 15.54 dB<br>SNR min: 9.44 dB",
+                "power": "14",
+                "rssiMax": -103,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 15.539999999999999,
+                "snrMin": 9.4399999999999995,
+                "stations": 11,
+                "txID": "46"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.415675163269,
+                    28.102149963378999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 47<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.102149963379<br>Longitude: -15.415675163269<br>RSSI max: -99 dBm<br>RSSI min: -138 dBm<br>SNR max: 18.37 dB<br>SNR min: 7.57 dB",
+                "power": "14",
+                "rssiMax": -99,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 18.370000000000001,
+                "snrMin": 7.5700000000000003,
+                "stations": 10,
+                "txID": "47"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.421131134033001,
+                    28.109403610228998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 48<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 28.109403610229<br>Longitude: -15.421131134033<br>RSSI max: -105 dBm<br>RSSI min: -140 dBm<br>SNR max: 16.05 dB<br>SNR min: 10.8 dB",
+                "power": "14",
+                "rssiMax": -105,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 16.050000000000001,
+                "snrMin": 10.800000000000001,
+                "stations": 7,
+                "txID": "48"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.423979759216,
+                    28.112377166748001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 49<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.112377166748<br>Longitude: -15.423979759216<br>RSSI max: -78 dBm<br>RSSI min: -140 dBm<br>SNR max: 37.45 dB<br>SNR min: 7.62 dB",
+                "power": "14",
+                "rssiMax": -78,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 37.450000000000003,
+                "snrMin": 7.6200000000000001,
+                "stations": 10,
+                "txID": "49"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425270080565999,
+                    28.113466262816999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 50<br>Service: OK<br>Transmitted Power: 7 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 28.113466262817<br>Longitude: -15.425270080566<br>RSSI max: -90 dBm<br>RSSI min: -138 dBm<br>SNR max: 17.7 dB<br>SNR min: 9.12 dB",
+                "power": "7",
+                "rssiMax": -90,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 17.699999999999999,
+                "snrMin": 9.1199999999999992,
+                "stations": 7,
+                "txID": "50"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425109863281,
+                    28.113748550415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 51<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.113748550415<br>Longitude: -15.425109863281<br>RSSI max: -82 dBm<br>RSSI min: -140 dBm<br>SNR max: 17.47 dB<br>SNR min: 6.97 dB",
+                "power": "14",
+                "rssiMax": -82,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 17.469999999999999,
+                "snrMin": 6.9699999999999998,
+                "stations": 10,
+                "txID": "51"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.423138618469,
+                    28.117729187011999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 52<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.117729187012<br>Longitude: -15.423138618469<br>RSSI max: -93 dBm<br>RSSI min: -139 dBm<br>SNR max: 16.83 dB<br>SNR min: 6.85 dB",
+                "power": "14",
+                "rssiMax": -93,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 16.829999999999998,
+                "snrMin": 6.8499999999999996,
+                "stations": 10,
+                "txID": "52"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.416743278503001,
+                    28.046209335326999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 53<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.046209335327<br>Longitude: -15.416743278503<br>RSSI max: -122 dBm<br>RSSI min: -129 dBm<br>SNR max: 15.04 dB<br>SNR min: 12.46 dB",
+                "power": "14",
+                "rssiMax": -122,
+                "rssiMin": -129,
+                "service": "OK",
+                "snrMax": 15.039999999999999,
+                "snrMin": 12.460000000000001,
+                "stations": 6,
+                "txID": "53"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.389229774475,
+                    27.944671630858998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 54<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 27.944671630859<br>Longitude: -15.389229774475<br>RSSI max: -108 dBm<br>RSSI min: -139 dBm<br>SNR max: 14.88 dB<br>SNR min: 8.08 dB",
+                "power": "14",
+                "rssiMax": -108,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 14.880000000000001,
+                "snrMin": 8.0800000000000001,
+                "stations": 7,
+                "txID": "54"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.416808128356999,
+                    27.874900817871001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 55<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.874900817871<br>Longitude: -15.416808128357<br>RSSI max: -85 dBm<br>RSSI min: -113 dBm<br>SNR max: 14.89 dB<br>SNR min: 12.11 dB",
+                "power": "14",
+                "rssiMax": -85,
+                "rssiMin": -113,
+                "service": "OK",
+                "snrMax": 14.890000000000001,
+                "snrMin": 12.109999999999999,
+                "stations": 4,
+                "txID": "55"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.391063690186,
+                    27.855745315551999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 56<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.855745315552<br>Longitude: -15.391063690186<br>RSSI max: -92 dBm<br>RSSI min: -117 dBm<br>SNR max: 16.18 dB<br>SNR min: 13.7 dB",
+                "power": "14",
+                "rssiMax": -92,
+                "rssiMin": -117,
+                "service": "OK",
+                "snrMax": 16.18,
+                "snrMin": 13.699999999999999,
+                "stations": 3,
+                "txID": "56"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.417672157287999,
+                    27.86315536499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 57<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.863155364990<br>Longitude: -15.417672157288<br>RSSI max: -97 dBm<br>RSSI min: -115 dBm<br>SNR max: 15.34 dB<br>SNR min: 12.01 dB",
+                "power": "14",
+                "rssiMax": -97,
+                "rssiMin": -115,
+                "service": "OK",
+                "snrMax": 15.34,
+                "snrMin": 12.01,
+                "stations": 3,
+                "txID": "57"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.51121711731,
+                    27.784856796265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 58<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.784856796265<br>Longitude: -15.511217117310<br>RSSI max: -86 dBm<br>RSSI min: -137 dBm<br>SNR max: 15.05 dB<br>SNR min: 10.33 dB",
+                "power": "14",
+                "rssiMax": -86,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 15.050000000000001,
+                "snrMin": 10.33,
+                "stations": 3,
+                "txID": "58"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.550059318542001,
+                    27.768871307373001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 59<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.768871307373<br>Longitude: -15.550059318542<br>RSSI max: -103 dBm<br>RSSI min: -108 dBm<br>SNR max: 16.27 dB<br>SNR min: 15.44 dB",
+                "power": "14",
+                "rssiMax": -103,
+                "rssiMin": -108,
+                "service": "OK",
+                "snrMax": 16.27,
+                "snrMin": 15.44,
+                "stations": 2,
+                "txID": "59"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.627063751221,
+                    27.753087997437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 60<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.753087997437<br>Longitude: -15.627063751221<br>RSSI max: -135 dBm<br>RSSI min: -137 dBm<br>SNR max: 12.9 dB<br>SNR min: 10.87 dB",
+                "power": "14",
+                "rssiMax": -135,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 12.9,
+                "snrMin": 10.869999999999999,
+                "stations": 2,
+                "txID": "60"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.640748023986999,
+                    27.756597518921001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 61<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.756597518921<br>Longitude: -15.640748023987<br>RSSI max: -139 dBm<br>RSSI min: -139 dBm<br>SNR max: 11.75 dB<br>SNR min: 11.75 dB",
+                "power": "14",
+                "rssiMax": -139,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 11.75,
+                "snrMin": 11.75,
+                "stations": 1,
+                "txID": "61"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.672406196594,
+                    27.752298355103001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 62<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 27.752298355103<br>Longitude: -15.672406196594<br>RSSI max: -107 dBm<br>RSSI min: -140 dBm<br>SNR max: 15.15 dB<br>SNR min: 8.83 dB",
+                "power": "14",
+                "rssiMax": -107,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 15.15,
+                "snrMin": 8.8300000000000001,
+                "stations": 7,
+                "txID": "62"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.687802314758001,
+                    27.768848419188998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 63<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.768848419189<br>Longitude: -15.687802314758<br>RSSI max: -79 dBm<br>RSSI min: -140 dBm<br>SNR max: 16.92 dB<br>SNR min: 7.66 dB",
+                "power": "14",
+                "rssiMax": -79,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 16.920000000000002,
+                "snrMin": 7.6600000000000001,
+                "stations": 3,
+                "txID": "63"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.711233139038001,
+                    27.788179397583001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 64<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.788179397583<br>Longitude: -15.711233139038<br>RSSI max: -73 dBm<br>RSSI min: -122 dBm<br>SNR max: 15.03 dB<br>SNR min: 14.9 dB",
+                "power": "14",
+                "rssiMax": -73,
+                "rssiMin": -122,
+                "service": "OK",
+                "snrMax": 15.029999999999999,
+                "snrMin": 14.9,
+                "stations": 2,
+                "txID": "64"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.750883102416999,
+                    27.810535430908001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 65<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.810535430908<br>Longitude: -15.750883102417<br>RSSI max: -120 dBm<br>RSSI min: -122 dBm<br>SNR max: 15.41 dB<br>SNR min: 14 dB",
+                "power": "14",
+                "rssiMax": -120,
+                "rssiMin": -122,
+                "service": "OK",
+                "snrMax": 15.41,
+                "snrMin": 14,
+                "stations": 3,
+                "txID": "65"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.766472816466999,
+                    27.818115234375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 66<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.818115234375<br>Longitude: -15.766472816467<br>RSSI max: -134 dBm<br>RSSI min: -137 dBm<br>SNR max: 10.87 dB<br>SNR min: 10.41 dB",
+                "power": "14",
+                "rssiMax": -134,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 10.869999999999999,
+                "snrMin": 10.41,
+                "stations": 2,
+                "txID": "66"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.755492210388001,
+                    27.830226898193001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 67<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.830226898193<br>Longitude: -15.755492210388<br>RSSI max: -140 dBm<br>RSSI min: -140 dBm<br>SNR max: 10.77 dB<br>SNR min: 10.77 dB",
+                "power": "14",
+                "rssiMax": -140,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 10.77,
+                "snrMin": 10.77,
+                "stations": 1,
+                "txID": "67"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.744955062866,
+                    27.854244232178001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 68<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.854244232178<br>Longitude: -15.744955062866<br>RSSI max: -122 dBm<br>RSSI min: -132 dBm<br>SNR max: 14.26 dB<br>SNR min: 13.27 dB",
+                "power": "14",
+                "rssiMax": -122,
+                "rssiMin": -132,
+                "service": "OK",
+                "snrMax": 14.26,
+                "snrMin": 13.27,
+                "stations": 2,
+                "txID": "68"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.723620414734,
+                    27.883794784546001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 69<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.883794784546<br>Longitude: -15.723620414734<br>RSSI max: -131 dBm<br>RSSI min: -135 dBm<br>SNR max: 14.03 dB<br>SNR min: 11.53 dB",
+                "power": "14",
+                "rssiMax": -131,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 14.029999999999999,
+                "snrMin": 11.529999999999999,
+                "stations": 2,
+                "txID": "69"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.722208976746,
+                    27.896574020386002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 70<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.896574020386<br>Longitude: -15.722208976746<br>RSSI max: -141 dBm<br>RSSI min: -141 dBm<br>SNR max: 10.03 dB<br>SNR min: 10.03 dB",
+                "power": "14",
+                "rssiMax": -141,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 10.029999999999999,
+                "snrMin": 10.029999999999999,
+                "stations": 1,
+                "txID": "70"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.726083755493001,
+                    27.921764373778998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 71<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 27.921764373779<br>Longitude: -15.726083755493",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "71"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.730648994446,
+                    27.921039581298999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 72<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.921039581299<br>Longitude: -15.730648994446<br>RSSI max: -141 dBm<br>RSSI min: -141 dBm<br>SNR max: 10.08 dB<br>SNR min: 10.08 dB",
+                "power": "14",
+                "rssiMax": -141,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 10.08,
+                "snrMin": 10.08,
+                "stations": 1,
+                "txID": "72"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.751504898071,
+                    27.934101104736001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 73<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.934101104736<br>Longitude: -15.751504898071<br>RSSI max: -139 dBm<br>RSSI min: -142 dBm<br>SNR max: 9.43 dB<br>SNR min: 8.24 dB",
+                "power": "14",
+                "rssiMax": -139,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 9.4299999999999997,
+                "snrMin": 8.2400000000000002,
+                "stations": 2,
+                "txID": "73"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.757687568665,
+                    27.942783355713001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 74<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 27.942783355713<br>Longitude: -15.757687568665<br>RSSI max: -114 dBm<br>RSSI min: -140 dBm<br>SNR max: 16.47 dB<br>SNR min: 9.94 dB",
+                "power": "14",
+                "rssiMax": -114,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 16.469999999999999,
+                "snrMin": 9.9399999999999995,
+                "stations": 13,
+                "txID": "74"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.774849891662999,
+                    27.954584121703999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 75<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 27.954584121704<br>Longitude: -15.774849891663<br>RSSI max: -87 dBm<br>RSSI min: -141 dBm<br>SNR max: 17.29 dB<br>SNR min: 8.01 dB",
+                "power": "14",
+                "rssiMax": -87,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 17.289999999999999,
+                "snrMin": 8.0099999999999998,
+                "stations": 12,
+                "txID": "75"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.786114692688001,
+                    27.983568191528001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 76<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.983568191528<br>Longitude: -15.786114692688<br>RSSI max: -79 dBm<br>RSSI min: -139 dBm<br>SNR max: 14.04 dB<br>SNR min: 7.65 dB",
+                "power": "14",
+                "rssiMax": -79,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 14.039999999999999,
+                "snrMin": 7.6500000000000004,
+                "stations": 2,
+                "txID": "76"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.77264213562,
+                    27.981409072876001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 77<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 9<br>Latitude: 27.981409072876<br>Longitude: -15.772642135620<br>RSSI max: -83 dBm<br>RSSI min: -141 dBm<br>SNR max: 21.34 dB<br>SNR min: 7.08 dB",
+                "power": "14",
+                "rssiMax": -83,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 21.34,
+                "snrMin": 7.0800000000000001,
+                "stations": 9,
+                "txID": "77"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.776587486266999,
+                    27.964666366576999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 78<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 27.964666366577<br>Longitude: -15.776587486267<br>RSSI max: -108 dBm<br>RSSI min: -141 dBm<br>SNR max: 15.71 dB<br>SNR min: 6.43 dB",
+                "power": "14",
+                "rssiMax": -108,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 15.710000000000001,
+                "snrMin": 6.4299999999999997,
+                "stations": 15,
+                "txID": "78"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.782410621643001,
+                    27.984088897705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 79<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 5<br>Latitude: 27.984088897705<br>Longitude: -15.782410621643<br>RSSI max: -79 dBm<br>RSSI min: -139 dBm<br>SNR max: 14.14 dB<br>SNR min: 6.3 dB",
+                "power": "14",
+                "rssiMax": -79,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 14.140000000000001,
+                "snrMin": 6.2999999999999998,
+                "stations": 5,
+                "txID": "79"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.812783241271999,
+                    27.997156143188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 80<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 17<br>Latitude: 27.997156143188<br>Longitude: -15.812783241272<br>RSSI max: -87 dBm<br>RSSI min: -139 dBm<br>SNR max: 21.55 dB<br>SNR min: 8.54 dB",
+                "power": "14",
+                "rssiMax": -87,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 21.550000000000001,
+                "snrMin": 8.5399999999999991,
+                "stations": 17,
+                "txID": "80"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.815142631531,
+                    28.002588272095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 81<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.002588272095<br>Longitude: -15.815142631531<br>RSSI max: -106 dBm<br>RSSI min: -141 dBm<br>SNR max: 14.36 dB<br>SNR min: 6.68 dB",
+                "power": "14",
+                "rssiMax": -106,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 14.359999999999999,
+                "snrMin": 6.6799999999999997,
+                "stations": 12,
+                "txID": "81"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.816555023193001,
+                    28.004928588866999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 82<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.004928588867<br>Longitude: -15.816555023193<br>RSSI max: -116.5 dBm<br>RSSI min: -135 dBm<br>SNR max: 21.8 dB<br>SNR min: 7.39 dB",
+                "power": "14",
+                "rssiMax": -116.5,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 21.800000000000001,
+                "snrMin": 7.3899999999999997,
+                "stations": 8,
+                "txID": "82"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.791884422301999,
+                    28.008728027343999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 83<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.008728027344<br>Longitude: -15.791884422302<br>RSSI max: -88 dBm<br>RSSI min: -147 dBm<br>SNR max: 14.88 dB<br>SNR min: 4.15 dB",
+                "power": "14",
+                "rssiMax": -88,
+                "rssiMin": -147,
+                "service": "OK",
+                "snrMax": 14.880000000000001,
+                "snrMin": 4.1500000000000004,
+                "stations": 12,
+                "txID": "83"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.785374641418001,
+                    28.019130706786999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 84<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 19<br>Latitude: 28.019130706787<br>Longitude: -15.785374641418<br>RSSI max: -103 dBm<br>RSSI min: -141 dBm<br>SNR max: 23.14 dB<br>SNR min: 6.88 dB",
+                "power": "14",
+                "rssiMax": -103,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 23.140000000000001,
+                "snrMin": 6.8799999999999999,
+                "stations": 19,
+                "txID": "84"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.768737792969,
+                    28.028171539306999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 85<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.028171539307<br>Longitude: -15.768737792969<br>RSSI max: -97 dBm<br>RSSI min: -136 dBm<br>SNR max: 23.29 dB<br>SNR min: 8.82 dB",
+                "power": "14",
+                "rssiMax": -97,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 23.289999999999999,
+                "snrMin": 8.8200000000000003,
+                "stations": 18,
+                "txID": "85"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.760536193848001,
+                    28.034029006958001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 86<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.034029006958<br>Longitude: -15.760536193848<br>RSSI max: -105 dBm<br>RSSI min: -142 dBm<br>SNR max: 24.2 dB<br>SNR min: 6.01 dB",
+                "power": "14",
+                "rssiMax": -105,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 24.199999999999999,
+                "snrMin": 6.0099999999999998,
+                "stations": 18,
+                "txID": "86"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.758285522461,
+                    28.035598754883001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 87<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.035598754883<br>Longitude: -15.758285522461<br>RSSI max: -98 dBm<br>RSSI min: -138 dBm<br>SNR max: 24.22 dB<br>SNR min: 7.99 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 24.219999999999999,
+                "snrMin": 7.9900000000000002,
+                "stations": 18,
+                "txID": "87"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.742917060851999,
+                    28.039354324341002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 88<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.039354324341<br>Longitude: -15.742917060852<br>RSSI max: -130 dBm<br>RSSI min: -139 dBm<br>SNR max: 12.17 dB<br>SNR min: 6.33 dB",
+                "power": "14",
+                "rssiMax": -130,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 12.17,
+                "snrMin": 6.3300000000000001,
+                "stations": 10,
+                "txID": "88"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.727989196776999,
+                    28.046487808228001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 89<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.046487808228<br>Longitude: -15.727989196777<br>RSSI max: -124 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.87 dB<br>SNR min: 6.54 dB",
+                "power": "14",
+                "rssiMax": -124,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.869999999999999,
+                "snrMin": 6.54,
+                "stations": 11,
+                "txID": "89"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.730516433716,
+                    28.048461914061999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 90<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.048461914062<br>Longitude: -15.730516433716<br>RSSI max: -132 dBm<br>RSSI min: -145 dBm<br>SNR max: 15.93 dB<br>SNR min: 8.74 dB",
+                "power": "14",
+                "rssiMax": -132,
+                "rssiMin": -145,
+                "service": "OK",
+                "snrMax": 15.93,
+                "snrMin": 8.7400000000000002,
+                "stations": 8,
+                "txID": "90"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.718245506286999,
+                    28.070003509521001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 91<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.070003509521<br>Longitude: -15.718245506287<br>RSSI max: -123 dBm<br>RSSI min: -139 dBm<br>SNR max: 16.06 dB<br>SNR min: 7.21 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 16.059999999999999,
+                "snrMin": 7.21,
+                "stations": 15,
+                "txID": "91"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.703863143921,
+                    28.087205886841002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 92<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 18<br>Latitude: 28.087205886841<br>Longitude: -15.703863143921<br>RSSI max: -104 dBm<br>RSSI min: -139 dBm<br>SNR max: 22.63 dB<br>SNR min: 8.28 dB",
+                "power": "14",
+                "rssiMax": -104,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 22.629999999999999,
+                "snrMin": 8.2799999999999994,
+                "stations": 18,
+                "txID": "92"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.712463378906,
+                    28.100816726685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 93<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.100816726685<br>Longitude: -15.712463378906<br>RSSI max: -124 dBm<br>RSSI min: -143 dBm<br>SNR max: 17.05 dB<br>SNR min: 7.01 dB",
+                "power": "14",
+                "rssiMax": -124,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 17.050000000000001,
+                "snrMin": 7.0099999999999998,
+                "stations": 13,
+                "txID": "93"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.700700759888001,
+                    28.100088119506999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 94<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 28.100088119507<br>Longitude: -15.700700759888<br>RSSI max: -130.5 dBm<br>RSSI min: -144 dBm<br>SNR max: 14.02 dB<br>SNR min: 6.7 dB",
+                "power": "14",
+                "rssiMax": -130.5,
+                "rssiMin": -144,
+                "service": "OK",
+                "snrMax": 14.02,
+                "snrMin": 6.7000000000000002,
+                "stations": 11,
+                "txID": "94"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.665141105651999,
+                    28.125595092773001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 95<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.125595092773<br>Longitude: -15.665141105652<br>RSSI max: -83 dBm<br>RSSI min: -139 dBm<br>SNR max: 17.55 dB<br>SNR min: 7.7 dB",
+                "power": "14",
+                "rssiMax": -83,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 17.550000000000001,
+                "snrMin": 7.7000000000000002,
+                "stations": 8,
+                "txID": "95"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.663200378418001,
+                    28.128620147705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 96<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.128620147705<br>Longitude: -15.663200378418<br>RSSI max: -90 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.43 dB<br>SNR min: 7.47 dB",
+                "power": "14",
+                "rssiMax": -90,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.43,
+                "snrMin": 7.4699999999999998,
+                "stations": 13,
+                "txID": "96"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.660510063170999,
+                    28.133068084716999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 97<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 28.133068084717<br>Longitude: -15.660510063171<br>RSSI max: -95 dBm<br>RSSI min: -143 dBm<br>SNR max: 15.27 dB<br>SNR min: 6.29 dB",
+                "power": "14",
+                "rssiMax": -95,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 15.27,
+                "snrMin": 6.29,
+                "stations": 7,
+                "txID": "97"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.699643135071,
+                    28.153877258301002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 98<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 13<br>Latitude: 28.153877258301<br>Longitude: -15.699643135071<br>RSSI max: -118 dBm<br>RSSI min: -143 dBm<br>SNR max: 15.86 dB<br>SNR min: 9.62 dB",
+                "power": "14",
+                "rssiMax": -118,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 15.859999999999999,
+                "snrMin": 9.6199999999999992,
+                "stations": 13,
+                "txID": "98"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.676114082335999,
+                    28.153625488281001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 99<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.153625488281<br>Longitude: -15.676114082336<br>RSSI max: -81 dBm<br>RSSI min: -147 dBm<br>SNR max: 14.96 dB<br>SNR min: 6.89 dB",
+                "power": "14",
+                "rssiMax": -81,
+                "rssiMin": -147,
+                "service": "OK",
+                "snrMax": 14.960000000000001,
+                "snrMin": 6.8899999999999997,
+                "stations": 6,
+                "txID": "99"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.656538009644001,
+                    28.145120620728001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 100<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.145120620728<br>Longitude: -15.656538009644<br>RSSI max: -90 dBm<br>RSSI min: -137 dBm<br>SNR max: 15.63 dB<br>SNR min: 12.57 dB",
+                "power": "14",
+                "rssiMax": -90,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 15.630000000000001,
+                "snrMin": 12.57,
+                "stations": 8,
+                "txID": "100"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.633942604065,
+                    28.141441345215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 101<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.141441345215<br>Longitude: -15.633942604065<br>RSSI max: -76 dBm<br>RSSI min: -140 dBm<br>SNR max: 15.26 dB<br>SNR min: 9.17 dB",
+                "power": "14",
+                "rssiMax": -76,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 15.26,
+                "snrMin": 9.1699999999999999,
+                "stations": 10,
+                "txID": "101"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.629249572754,
+                    28.139060974121001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 102<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 6<br>Latitude: 28.139060974121<br>Longitude: -15.629249572754<br>RSSI max: -90 dBm<br>RSSI min: -147 dBm<br>SNR max: 16.6 dB<br>SNR min: 3.89 dB",
+                "power": "14",
+                "rssiMax": -90,
+                "rssiMin": -147,
+                "service": "OK",
+                "snrMax": 16.600000000000001,
+                "snrMin": 3.8900000000000001,
+                "stations": 6,
+                "txID": "102"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.603304862976,
+                    28.141767501831001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 103<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 20<br>Latitude: 28.141767501831<br>Longitude: -15.603304862976<br>RSSI max: -98 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.9 dB<br>SNR min: 9.12 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.9,
+                "snrMin": 9.1199999999999992,
+                "stations": 20,
+                "txID": "103"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.574020385741999,
+                    28.143098831176999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 104<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.143098831177<br>Longitude: -15.574020385742<br>RSSI max: -97 dBm<br>RSSI min: -137 dBm<br>SNR max: 14.75 dB<br>SNR min: 7.11 dB",
+                "power": "14",
+                "rssiMax": -97,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 14.75,
+                "snrMin": 7.1100000000000003,
+                "stations": 10,
+                "txID": "104"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.50402545929,
+                    28.141862869263001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 105<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 28.141862869263<br>Longitude: -15.504025459290<br>RSSI max: -102 dBm<br>RSSI min: -138 dBm<br>SNR max: 15.43 dB<br>SNR min: 7.12 dB",
+                "power": "14",
+                "rssiMax": -102,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 15.43,
+                "snrMin": 7.1200000000000001,
+                "stations": 15,
+                "txID": "105"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.429725646973001,
+                    28.120672225951999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 106<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.120672225952<br>Longitude: -15.429725646973<br>RSSI max: -82 dBm<br>RSSI min: -139 dBm<br>SNR max: 19.57 dB<br>SNR min: 7.49 dB",
+                "power": "14",
+                "rssiMax": -82,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 19.57,
+                "snrMin": 7.4900000000000002,
+                "stations": 12,
+                "txID": "106"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.473976135254,
+                    27.995677947998001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 176<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 27.995677947998<br>Longitude: -15.473976135254<br>RSSI max: -127 dBm<br>RSSI min: -139 dBm<br>SNR max: 16.31 dB<br>SNR min: 9.64 dB",
+                "power": "14",
+                "rssiMax": -127,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 16.309999999999999,
+                "snrMin": 9.6400000000000006,
+                "stations": 7,
+                "txID": "176"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.421597480774,
+                    27.995634078978998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 177<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 27.995634078979<br>Longitude: -15.421597480774<br>RSSI max: -90 dBm<br>RSSI min: -137 dBm<br>SNR max: 14.84 dB<br>SNR min: 8.76 dB",
+                "power": "14",
+                "rssiMax": -90,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 14.84,
+                "snrMin": 8.7599999999999998,
+                "stations": 7,
+                "txID": "177"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.42387008667,
+                    27.947521209716999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 178<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 5<br>Latitude: 27.947521209717<br>Longitude: -15.423870086670<br>RSSI max: -94 dBm<br>RSSI min: -138 dBm<br>SNR max: 15.51 dB<br>SNR min: 9.22 dB",
+                "power": "14",
+                "rssiMax": -94,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 15.51,
+                "snrMin": 9.2200000000000006,
+                "stations": 5,
+                "txID": "178"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.438683509826999,
+                    27.918199539185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 179<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.918199539185<br>Longitude: -15.438683509827<br>RSSI max: -113 dBm<br>RSSI min: -137 dBm<br>SNR max: 14.89 dB<br>SNR min: 9.47 dB",
+                "power": "14",
+                "rssiMax": -113,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 14.890000000000001,
+                "snrMin": 9.4700000000000006,
+                "stations": 2,
+                "txID": "179"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.471076965331999,
+                    27.945732116698998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 180<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.945732116699<br>Longitude: -15.471076965332<br>RSSI max: -123 dBm<br>RSSI min: -135 dBm<br>SNR max: 16.34 dB<br>SNR min: 7.25 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 16.34,
+                "snrMin": 7.25,
+                "stations": 3,
+                "txID": "180"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.514060974121,
+                    27.953475952148001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 181<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 11<br>Latitude: 27.953475952148<br>Longitude: -15.514060974121<br>RSSI max: -118 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.05 dB<br>SNR min: 6.39 dB",
+                "power": "14",
+                "rssiMax": -118,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.050000000000001,
+                "snrMin": 6.3899999999999997,
+                "stations": 11,
+                "txID": "181"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.535508155823001,
+                    27.960941314696999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 182<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 17<br>Latitude: 27.960941314697<br>Longitude: -15.535508155823<br>RSSI max: -105 dBm<br>RSSI min: -140 dBm<br>SNR max: 14.57 dB<br>SNR min: 7.43 dB",
+                "power": "14",
+                "rssiMax": -105,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 14.57,
+                "snrMin": 7.4299999999999997,
+                "stations": 17,
+                "txID": "182"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.565328598022001,
+                    27.968616485596002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 183<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 27<br>Latitude: 27.968616485596<br>Longitude: -15.565328598022<br>RSSI max: -119 dBm<br>RSSI min: -143 dBm<br>SNR max: 27.11 dB<br>SNR min: 6.86 dB",
+                "power": "14",
+                "rssiMax": -119,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 27.109999999999999,
+                "snrMin": 6.8600000000000003,
+                "stations": 27,
+                "txID": "183"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.594044685364,
+                    27.959402084351002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 184<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.959402084351<br>Longitude: -15.594044685364<br>RSSI max: -133 dBm<br>RSSI min: -133 dBm<br>SNR max: 11.26 dB<br>SNR min: 11.26 dB",
+                "power": "14",
+                "rssiMax": -133,
+                "rssiMin": -133,
+                "service": "OK",
+                "snrMax": 11.26,
+                "snrMin": 11.26,
+                "stations": 1,
+                "txID": "184"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.612375259399,
+                    27.950550079346002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 185<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.950550079346<br>Longitude: -15.612375259399<br>RSSI max: -139 dBm<br>RSSI min: -140 dBm<br>SNR max: 11.43 dB<br>SNR min: 8.7 dB",
+                "power": "14",
+                "rssiMax": -139,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 11.43,
+                "snrMin": 8.6999999999999993,
+                "stations": 3,
+                "txID": "185"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.580275535583,
+                    27.937177658081001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 186<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.937177658081<br>Longitude: -15.580275535583<br>RSSI max: -116 dBm<br>RSSI min: -133 dBm<br>SNR max: 14.3 dB<br>SNR min: 11.24 dB",
+                "power": "14",
+                "rssiMax": -116,
+                "rssiMin": -133,
+                "service": "OK",
+                "snrMax": 14.300000000000001,
+                "snrMin": 11.24,
+                "stations": 2,
+                "txID": "186"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.57323551178,
+                    27.925512313843001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 187<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.925512313843<br>Longitude: -15.573235511780<br>RSSI max: -117 dBm<br>RSSI min: -136 dBm<br>SNR max: 15.42 dB<br>SNR min: 11.9 dB",
+                "power": "14",
+                "rssiMax": -117,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 15.42,
+                "snrMin": 11.9,
+                "stations": 3,
+                "txID": "187"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.542604446411,
+                    27.912525177001999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 188<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.912525177002<br>Longitude: -15.542604446411<br>RSSI max: -119 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.15 dB<br>SNR min: 6.59 dB",
+                "power": "14",
+                "rssiMax": -119,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.15,
+                "snrMin": 6.5899999999999999,
+                "stations": 3,
+                "txID": "188"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.52192401886,
+                    27.884786605835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 189<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.884786605835<br>Longitude: -15.521924018860<br>RSSI max: -125 dBm<br>RSSI min: -136 dBm<br>SNR max: 15.58 dB<br>SNR min: 8.78 dB",
+                "power": "14",
+                "rssiMax": -125,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 15.58,
+                "snrMin": 8.7799999999999994,
+                "stations": 3,
+                "txID": "189"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.499184608459,
+                    27.871397018433001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 190<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.871397018433<br>Longitude: -15.499184608459<br>RSSI max: -105 dBm<br>RSSI min: -127 dBm<br>SNR max: 16.4 dB<br>SNR min: 15.27 dB",
+                "power": "14",
+                "rssiMax": -105,
+                "rssiMin": -127,
+                "service": "OK",
+                "snrMax": 16.399999999999999,
+                "snrMin": 15.27,
+                "stations": 3,
+                "txID": "190"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.453743934630999,
+                    27.854637145996001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 191<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.854637145996<br>Longitude: -15.453743934631<br>RSSI max: -93 dBm<br>RSSI min: -136 dBm<br>SNR max: 15.05 dB<br>SNR min: 7.66 dB",
+                "power": "14",
+                "rssiMax": -93,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 15.050000000000001,
+                "snrMin": 7.6600000000000001,
+                "stations": 4,
+                "txID": "191"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.440752029419,
+                    27.841293334961001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 192<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.841293334961<br>Longitude: -15.440752029419<br>RSSI max: -106 dBm<br>RSSI min: -123 dBm<br>SNR max: 17.29 dB<br>SNR min: 13.75 dB",
+                "power": "14",
+                "rssiMax": -106,
+                "rssiMin": -123,
+                "service": "OK",
+                "snrMax": 17.289999999999999,
+                "snrMin": 13.75,
+                "stations": 3,
+                "txID": "192"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.456270217896,
+                    27.824714660645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 193<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.824714660645<br>Longitude: -15.456270217896<br>RSSI max: -97 dBm<br>RSSI min: -136 dBm<br>SNR max: 18.1 dB<br>SNR min: 9.95 dB",
+                "power": "14",
+                "rssiMax": -97,
+                "rssiMin": -136,
+                "service": "OK",
+                "snrMax": 18.100000000000001,
+                "snrMin": 9.9499999999999993,
+                "stations": 4,
+                "txID": "193"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.582653999329001,
+                    27.773447036743001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 194<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.773447036743<br>Longitude: -15.582653999329<br>RSSI max: -107 dBm<br>RSSI min: -117 dBm<br>SNR max: 15.85 dB<br>SNR min: 13.17 dB",
+                "power": "14",
+                "rssiMax": -107,
+                "rssiMin": -117,
+                "service": "OK",
+                "snrMax": 15.85,
+                "snrMin": 13.17,
+                "stations": 3,
+                "txID": "194"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.581583976746,
+                    27.813274383545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 195<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.813274383545<br>Longitude: -15.581583976746<br>RSSI max: -110 dBm<br>RSSI min: -110 dBm<br>SNR max: 13.98 dB<br>SNR min: 13.98 dB",
+                "power": "14",
+                "rssiMax": -110,
+                "rssiMin": -110,
+                "service": "OK",
+                "snrMax": 13.98,
+                "snrMin": 13.98,
+                "stations": 1,
+                "txID": "195"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.565176963806,
+                    27.851398468018001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 196<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.851398468018<br>Longitude: -15.565176963806<br>RSSI max: -123 dBm<br>RSSI min: -138 dBm<br>SNR max: 14.76 dB<br>SNR min: 7.79 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 14.76,
+                "snrMin": 7.79,
+                "stations": 3,
+                "txID": "196"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.563026428223001,
+                    27.890369415283001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 197<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.890369415283<br>Longitude: -15.563026428223<br>RSSI max: -119 dBm<br>RSSI min: -134 dBm<br>SNR max: 16.35 dB<br>SNR min: 10.2 dB",
+                "power": "14",
+                "rssiMax": -119,
+                "rssiMin": -134,
+                "service": "OK",
+                "snrMax": 16.350000000000001,
+                "snrMin": 10.199999999999999,
+                "stations": 3,
+                "txID": "197"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.572561264038001,
+                    27.91918182373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 198<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.919181823730<br>Longitude: -15.572561264038<br>RSSI max: -91 dBm<br>RSSI min: -138 dBm<br>SNR max: 15.63 dB<br>SNR min: 7.64 dB",
+                "power": "14",
+                "rssiMax": -91,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 15.630000000000001,
+                "snrMin": 7.6399999999999997,
+                "stations": 4,
+                "txID": "198"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.591243743895999,
+                    27.939432144165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 199<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.939432144165<br>Longitude: -15.591243743896<br>RSSI max: -126 dBm<br>RSSI min: -137 dBm<br>SNR max: 13.96 dB<br>SNR min: 7.38 dB",
+                "power": "14",
+                "rssiMax": -126,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 13.960000000000001,
+                "snrMin": 7.3799999999999999,
+                "stations": 2,
+                "txID": "199"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.633784294128001,
+                    27.909589767456001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 200<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.909589767456<br>Longitude: -15.633784294128<br>RSSI max: -130 dBm<br>RSSI min: -142 dBm<br>SNR max: 13.27 dB<br>SNR min: 8.35 dB",
+                "power": "14",
+                "rssiMax": -130,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 13.27,
+                "snrMin": 8.3499999999999996,
+                "stations": 2,
+                "txID": "200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.640009880066,
+                    27.904747009276999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 201<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.904747009277<br>Longitude: -15.640009880066<br>RSSI max: -112 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.02 dB<br>SNR min: 8.49 dB",
+                "power": "14",
+                "rssiMax": -112,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.02,
+                "snrMin": 8.4900000000000002,
+                "stations": 4,
+                "txID": "201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.618362426758001,
+                    27.933349609375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 202<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.933349609375<br>Longitude: -15.618362426758<br>RSSI max: -129 dBm<br>RSSI min: -137 dBm<br>SNR max: 14.65 dB<br>SNR min: 8.78 dB",
+                "power": "14",
+                "rssiMax": -129,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 14.65,
+                "snrMin": 8.7799999999999994,
+                "stations": 2,
+                "txID": "202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.609988212585,
+                    27.951366424561002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 203<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 27.951366424561<br>Longitude: -15.609988212585",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.615970611571999,
+                    27.954923629761002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 204<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.954923629761<br>Longitude: -15.615970611572<br>RSSI max: -134 dBm<br>RSSI min: -144 dBm<br>SNR max: 16.88 dB<br>SNR min: 7.13 dB",
+                "power": "14",
+                "rssiMax": -134,
+                "rssiMin": -144,
+                "service": "OK",
+                "snrMax": 16.879999999999999,
+                "snrMin": 7.1299999999999999,
+                "stations": 3,
+                "txID": "204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.636487960815,
+                    27.940259933471999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 205<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.940259933472<br>Longitude: -15.636487960815<br>RSSI max: -141 dBm<br>RSSI min: -141 dBm<br>SNR max: 6.4 dB<br>SNR min: 6.4 dB",
+                "power": "14",
+                "rssiMax": -141,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 6.4000000000000004,
+                "snrMin": 6.4000000000000004,
+                "stations": 1,
+                "txID": "205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.671671867371,
+                    27.924909591675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 206<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.924909591675<br>Longitude: -15.671671867371<br>RSSI max: -135 dBm<br>RSSI min: -135 dBm<br>SNR max: 13.05 dB<br>SNR min: 13.05 dB",
+                "power": "14",
+                "rssiMax": -135,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 13.050000000000001,
+                "snrMin": 13.050000000000001,
+                "stations": 1,
+                "txID": "206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.689531326294,
+                    27.91131401062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 207<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.911314010620<br>Longitude: -15.689531326294<br>RSSI max: -135 dBm<br>RSSI min: -139 dBm<br>SNR max: 11.16 dB<br>SNR min: 6.88 dB",
+                "power": "14",
+                "rssiMax": -135,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 11.16,
+                "snrMin": 6.8799999999999999,
+                "stations": 3,
+                "txID": "207"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.681831359863001,
+                    27.897905349731001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 208<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.897905349731<br>Longitude: -15.681831359863<br>RSSI max: -133 dBm<br>RSSI min: -139 dBm<br>SNR max: 13.43 dB<br>SNR min: 10.05 dB",
+                "power": "14",
+                "rssiMax": -133,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 13.43,
+                "snrMin": 10.050000000000001,
+                "stations": 2,
+                "txID": "208"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.669748306274,
+                    27.906248092651001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 209<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.906248092651<br>Longitude: -15.669748306274<br>RSSI max: -138 dBm<br>RSSI min: -139 dBm<br>SNR max: 10.34 dB<br>SNR min: 7.95 dB",
+                "power": "14",
+                "rssiMax": -138,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 10.34,
+                "snrMin": 7.9500000000000002,
+                "stations": 2,
+                "txID": "209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.675831794739,
+                    27.877620697021001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 210<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.877620697021<br>Longitude: -15.675831794739<br>RSSI max: -140 dBm<br>RSSI min: -140 dBm<br>SNR max: 8.03 dB<br>SNR min: 8.03 dB",
+                "power": "14",
+                "rssiMax": -140,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 8.0299999999999994,
+                "snrMin": 8.0299999999999994,
+                "stations": 1,
+                "txID": "210"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.664277076721,
+                    27.862314224243001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 211<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.862314224243<br>Longitude: -15.664277076721<br>RSSI max: -137 dBm<br>RSSI min: -137 dBm<br>SNR max: 9 dB<br>SNR min: 9 dB",
+                "power": "14",
+                "rssiMax": -137,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 9,
+                "snrMin": 9,
+                "stations": 1,
+                "txID": "211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.668097496033001,
+                    27.806221008301002
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 212<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 1<br>Latitude: 27.806221008301<br>Longitude: -15.668097496033<br>RSSI max: -139 dBm<br>RSSI min: -139 dBm<br>SNR max: 8.32 dB<br>SNR min: 8.32 dB",
+                "power": "14",
+                "rssiMax": -139,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 8.3200000000000003,
+                "snrMin": 8.3200000000000003,
+                "stations": 1,
+                "txID": "212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.663988113403001,
+                    27.756120681763001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 213<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.756120681763<br>Longitude: -15.663988113403<br>RSSI max: -115 dBm<br>RSSI min: -141 dBm<br>SNR max: 15.82 dB<br>SNR min: 7.54 dB",
+                "power": "14",
+                "rssiMax": -115,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 15.82,
+                "snrMin": 7.54,
+                "stations": 4,
+                "txID": "213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.601859092712001,
+                    27.753360748291001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 214<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.753360748291<br>Longitude: -15.601859092712<br>RSSI max: -99 dBm<br>RSSI min: -116 dBm<br>SNR max: 15.93 dB<br>SNR min: 14.33 dB",
+                "power": "14",
+                "rssiMax": -99,
+                "rssiMin": -116,
+                "service": "OK",
+                "snrMax": 15.93,
+                "snrMin": 14.33,
+                "stations": 3,
+                "txID": "214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.573107719420999,
+                    27.764722824096999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 215<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.764722824097<br>Longitude: -15.573107719421<br>RSSI max: -102 dBm<br>RSSI min: -134 dBm<br>SNR max: 15.64 dB<br>SNR min: 12.83 dB",
+                "power": "14",
+                "rssiMax": -102,
+                "rssiMin": -134,
+                "service": "OK",
+                "snrMax": 15.640000000000001,
+                "snrMin": 12.83,
+                "stations": 3,
+                "txID": "215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.50627040863,
+                    27.784940719603998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 216<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 4<br>Latitude: 27.784940719604<br>Longitude: -15.506270408630<br>RSSI max: -80 dBm<br>RSSI min: -142 dBm<br>SNR max: 15.14 dB<br>SNR min: 6.03 dB",
+                "power": "14",
+                "rssiMax": -80,
+                "rssiMin": -142,
+                "service": "OK",
+                "snrMax": 15.140000000000001,
+                "snrMin": 6.0300000000000002,
+                "stations": 4,
+                "txID": "216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.448001861571999,
+                    27.840084075928001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 217<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.840084075928<br>Longitude: -15.448001861572<br>RSSI max: -117 dBm<br>RSSI min: -127 dBm<br>SNR max: 15.89 dB<br>SNR min: 11.59 dB",
+                "power": "14",
+                "rssiMax": -117,
+                "rssiMin": -127,
+                "service": "OK",
+                "snrMax": 15.890000000000001,
+                "snrMin": 11.59,
+                "stations": 3,
+                "txID": "217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.426401138306,
+                    27.876865386963001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 218<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 27.876865386963<br>Longitude: -15.426401138306<br>RSSI max: -99 dBm<br>RSSI min: -123 dBm<br>SNR max: 14.68 dB<br>SNR min: 11.99 dB",
+                "power": "14",
+                "rssiMax": -99,
+                "rssiMin": -123,
+                "service": "OK",
+                "snrMax": 14.68,
+                "snrMin": 11.99,
+                "stations": 3,
+                "txID": "218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.443230628966999,
+                    27.90717124939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 219<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 5<br>Latitude: 27.907171249390<br>Longitude: -15.443230628967<br>RSSI max: -125 dBm<br>RSSI min: -143 dBm<br>SNR max: 15.23 dB<br>SNR min: 7.87 dB",
+                "power": "14",
+                "rssiMax": -125,
+                "rssiMin": -143,
+                "service": "OK",
+                "snrMax": 15.23,
+                "snrMin": 7.8700000000000001,
+                "stations": 5,
+                "txID": "219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.42352771759,
+                    27.964429855346999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 220<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 7<br>Latitude: 27.964429855347<br>Longitude: -15.423527717590<br>RSSI max: -94 dBm<br>RSSI min: -140 dBm<br>SNR max: 15.49 dB<br>SNR min: 11.41 dB",
+                "power": "14",
+                "rssiMax": -94,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 15.49,
+                "snrMin": 11.41,
+                "stations": 7,
+                "txID": "220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.420852661133001,
+                    27.990530014038001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 221<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 2<br>Latitude: 27.990530014038<br>Longitude: -15.420852661133<br>RSSI max: -109 dBm<br>RSSI min: -125 dBm<br>SNR max: 14.98 dB<br>SNR min: 13.08 dB",
+                "power": "14",
+                "rssiMax": -109,
+                "rssiMin": -125,
+                "service": "OK",
+                "snrMax": 14.98,
+                "snrMin": 13.08,
+                "stations": 2,
+                "txID": "221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.489599227905,
+                    27.992267608643001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 222<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 27.992267608643<br>Longitude: -15.489599227905<br>RSSI max: -122 dBm<br>RSSI min: -141 dBm<br>SNR max: 16.39 dB<br>SNR min: 8.95 dB",
+                "power": "14",
+                "rssiMax": -122,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 16.390000000000001,
+                "snrMin": 8.9499999999999993,
+                "stations": 10,
+                "txID": "222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.514643669128001,
+                    27.988245010376001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 223<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 27.988245010376<br>Longitude: -15.514643669128<br>RSSI max: -123 dBm<br>RSSI min: -138 dBm<br>SNR max: 15.51 dB<br>SNR min: 8.5 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 15.51,
+                "snrMin": 8.5,
+                "stations": 8,
+                "txID": "223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.530232429504,
+                    27.997989654541001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 224<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 15<br>Latitude: 27.997989654541<br>Longitude: -15.530232429504<br>RSSI max: -124 dBm<br>RSSI min: -138 dBm<br>SNR max: 16.29 dB<br>SNR min: 7.81 dB",
+                "power": "14",
+                "rssiMax": -124,
+                "rssiMin": -138,
+                "service": "OK",
+                "snrMax": 16.289999999999999,
+                "snrMin": 7.8099999999999996,
+                "stations": 15,
+                "txID": "224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.5317029953,
+                    28.010074615478999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 225<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.010074615479<br>Longitude: -15.531702995300<br>RSSI max: -123 dBm<br>RSSI min: -139 dBm<br>SNR max: 16.82 dB<br>SNR min: 9.26 dB",
+                "power": "14",
+                "rssiMax": -123,
+                "rssiMin": -139,
+                "service": "OK",
+                "snrMax": 16.82,
+                "snrMin": 9.2599999999999998,
+                "stations": 10,
+                "txID": "225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.500719070435,
+                    28.02689743042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 226<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 3<br>Latitude: 28.026897430420<br>Longitude: -15.500719070435<br>RSSI max: -88 dBm<br>RSSI min: -137 dBm<br>SNR max: 18.04 dB<br>SNR min: 10.12 dB",
+                "power": "14",
+                "rssiMax": -88,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 18.039999999999999,
+                "snrMin": 10.119999999999999,
+                "stations": 3,
+                "txID": "226"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.459658622741999,
+                    28.050764083861999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 227<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.050764083862<br>Longitude: -15.459658622742<br>RSSI max: -98 dBm<br>RSSI min: -140 dBm<br>SNR max: 35.37 dB<br>SNR min: 6.71 dB",
+                "power": "14",
+                "rssiMax": -98,
+                "rssiMin": -140,
+                "service": "OK",
+                "snrMax": 35.369999999999997,
+                "snrMin": 6.71,
+                "stations": 12,
+                "txID": "227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.459582328795999,
+                    28.060991287231001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 228<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 12<br>Latitude: 28.060991287231<br>Longitude: -15.459582328796<br>RSSI max: -85 dBm<br>RSSI min: -137 dBm<br>SNR max: 14.97 dB<br>SNR min: 8.07 dB",
+                "power": "14",
+                "rssiMax": -85,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 14.970000000000001,
+                "snrMin": 8.0700000000000003,
+                "stations": 12,
+                "txID": "228"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.424695014954001,
+                    28.094085693358998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 229<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 10<br>Latitude: 28.094085693359<br>Longitude: -15.424695014954<br>RSSI max: -113 dBm<br>RSSI min: -141 dBm<br>SNR max: 15.69 dB<br>SNR min: 9.95 dB",
+                "power": "14",
+                "rssiMax": -113,
+                "rssiMin": -141,
+                "service": "OK",
+                "snrMax": 15.69,
+                "snrMin": 9.9499999999999993,
+                "stations": 10,
+                "txID": "229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.423007965088001,
+                    28.11075592041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 230<br>Service: OK<br>Transmitted Power: 14 dBm<br>Transmission with ACK: No<br>ACK received: No<br>Stations: 8<br>Latitude: 28.110755920410<br>Longitude: -15.423007965088<br>RSSI max: -80 dBm<br>RSSI min: -135 dBm<br>SNR max: 19.51 dB<br>SNR min: 7.54 dB",
+                "power": "14",
+                "rssiMax": -80,
+                "rssiMin": -135,
+                "service": "OK",
+                "snrMax": 19.510000000000002,
+                "snrMin": 7.54,
+                "stations": 8,
+                "txID": "230"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
