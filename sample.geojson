@@ -1,0 +1,132 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425104141235,
+                    28.113718032836999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 20<br>Service: NOK<br>Transmitted Power: 0 dBm<br>Stations: 0<br>Latitude: 28.113718032837<br>Longitude: -15.425104141235",
+                "power": "0",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "20"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425102233886999,
+                    28.113733291626001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 21<br>Service: NOK<br>Transmitted Power: 7 dBm<br>Stations: 0<br>Latitude: 28.113733291626<br>Longitude: -15.425102233887",
+                "power": "7",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "21"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425067901610999,
+                    28.113668441771999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 22<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 28.113668441772<br>Longitude: -15.425067901611",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "22"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425102233886999,
+                    28.113603591918999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 23<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 28.113603591919<br>Longitude: -15.425102233887",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "23"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425162315369001,
+                    28.113569259643999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 29<br>Service: NOK<br>Transmitted Power: 14 dBm<br>Stations: 0<br>Latitude: 28.113569259644<br>Longitude: -15.425162315369",
+                "power": "14",
+                "service": "NOK",
+                "stations": 0,
+                "txID": "29"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425077438354,
+                    28.113721847533998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 30<br>Service: OK<br>Transmitted Power: 14 dBm<br>Stations: 9<br>Latitude: 28.113721847534<br>Longitude: -15.425077438354<br>RSSI max: -87 dBm<br>RSSI min: -137 dBm<br>SNR max: 18.76 dB<br>SNR min: 8.7 dB",
+                "power": "14",
+                "rssiMax": -87,
+                "rssiMin": -137,
+                "service": "OK",
+                "snrMax": 18.760000000000002,
+                "snrMin": 8.6999999999999993,
+                "stations": 9,
+                "txID": "30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -15.425071716309001,
+                    28.113735198975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "popupContent": "TXID: 31<br>Service: OK<br>Transmitted Power: 14 dBm<br>Stations: 8<br>Latitude: 28.113735198975<br>Longitude: -15.425071716309<br>RSSI max: -92 dBm<br>RSSI min: -134 dBm<br>SNR max: 17.34 dB<br>SNR min: 6.65 dB",
+                "power": "14",
+                "rssiMax": -92,
+                "rssiMin": -134,
+                "service": "OK",
+                "snrMax": 17.34,
+                "snrMin": 6.6500000000000004,
+                "stations": 8,
+                "txID": "31"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
